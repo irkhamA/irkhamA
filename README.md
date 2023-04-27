@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **Testing both manual and automation**
 
-- 📫 How to reach me **irkhamlearning@gmail.com**
+- 📫 You can reach me at **irkhamlearning@gmail.com**
 
-- ⚡ Fun fact **Ex wibu**
+- ⚡ Fun fact **I'm an ex weebs**
 
 <h3 align="left">Connect with me:</h3>
   <div align="center">
@@ -60,6 +60,17 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irkhama&" alt="irkhama" />
 </p>
+
+<br/>  
+
+<div align="center">
+            <a href="https://paypal.me/irkhamak" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    align="center"
+                />
+            </a></div>
+<br />
 
 
 <!--
