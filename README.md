@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm irkhamA</h1>
 <h3 align="center">Curiosity Driven, Quality Obsessed: Crafting Reliable Software Through Meticulous QA Engineering from Indonesia</h3>
 
