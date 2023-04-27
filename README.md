@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<details>
+  <summary>:zap: Github Stats</summary>
+  
+  <img allign="left" alt="irkhamA's Github Stats" src="https://github-readme-stats-omega-khaki.vercel.app/api?username=irkhama&show_icon=true&hide_border=true&count_private=true&theme=radical&include_all_commits=true&hide=stars,prs" />
+  
+</details>  
+
 <!--
 **irkhamA/irkhamA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
