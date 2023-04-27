@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm irkhamA</h1>
+<h1 align="center">Hi 👋, I'm irkham</h1>
 <h3 align="center">Curiosity Driven, Quality Obsessed: Crafting Reliable Software Through Meticulous QA Engineering from Indonesia</h3>
 
 - 🔭 I’m currently working on **Kitalulus**
