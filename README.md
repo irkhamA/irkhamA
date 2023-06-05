@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm irkham</h1>
-<h3 align="center">Curiosity Driven, Quality Obsessed: Crafting Reliable Software Through Meticulous QA Engineering from Indonesia</h3>
-
-- 🔭 I’m currently working on **Kitalulus**
-
-- 💬 Ask me about **Testing both manual and automation**
-
-- 📫 You can reach me at **irkhamlearning@gmail.com**
-
-- ⚡ Fun fact **I'm an ex weebs**
+<h3 align="center">Unleashing potential, one test at a time.</h3>
 
 <h3 align="left">Connect with me:</h3>
   <div align="center">
