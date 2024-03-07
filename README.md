@@ -17,6 +17,10 @@
     </a>  
   </div>  
 
+ <div align="center">
+  <img src="https://profile-counter.glitch.me/irkhamA/count.svg?"  />
+ </div>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
@@ -45,16 +49,11 @@
 <h3 align="left">Github Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irkhama&show_icons=true&locale=en&layout=compact" alt="irkhama" />
+  <img align="center" src="https://github-readme-stats-omega-khaki.vercel.app/api?username=irkhama&show_icon=true&hide_border=true&count_private=true&theme=radical&include_all_commits=true&hide=stars,prs" alt="irkhama" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irkhama&" alt="irkhama" />
   <img src="https://raw.githubusercontent.com/irkhamA/irkhamA/output/snake.svg" alt="Snake animation" />
 </p>
 
-<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats-omega-khaki.vercel.app/api?username=irkhama&show_icon=true&hide_border=true&count_private=true&theme=radical&include_all_commits=true&hide=stars,prs" alt="irkhama" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irkhama&" alt="irkhama" />
-</p>
 
 <br/>  
 
