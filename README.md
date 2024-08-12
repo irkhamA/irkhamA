@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
   <div align="center">
     <a href="https://github.com/irkhama" target="_blank" data-test-id="github">
-      <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+      <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" data-testid="github"/>
     </a>
     <a href="https://linkedin.com/in/irkham" target="_blank" data-test-id="linkedin">
       <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
